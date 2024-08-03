@@ -495,8 +495,7 @@ generally best not to use this feature explicitly and use schema
 bundling tools to construct bundled schemas if such a thing is needed.
 :::
 
-This example shows the customer schema example and the address schema
-example bundled into a Compound Schema Document.
+theincoopojfweojfkmiojkpokofpkffherujkevomiojvbvbq[iojjn rjjijnfndnui]
 
 ```json
 // props { "isSchema": true }
